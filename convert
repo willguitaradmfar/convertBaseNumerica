@@ -1,12 +1,5 @@
 #!/bin/bash --norc
-#
-# Convertendo bases numéricas.
-#
-# Sandro Marcell (sandro_marcell@yahoo.com.br)
-#
-# Obs.: São necessários o dialog e a calculadora bc.
- 
-# Mensagens 'piscantes'! =)
+
 Echo() { echo -e "\e[1;5m$*\e[m" ; }
  
 # Programas necessários:
